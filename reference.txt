@@ -1,0 +1,8 @@
+1. Generators 
+2. Closure
+3. Decorators & chained decorators
+4. Recursion
+5. Queue
+6. Openpyxl and formating using Openpyxl
+7. conditional formating using openpyxl
+8. 
