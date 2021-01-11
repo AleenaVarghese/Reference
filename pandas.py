@@ -1,10 +1,10 @@
 import pandas as pd
 
 dict_values = {
-				"Name":["Aleena","John","Adam"],
-				"Age":[21,25,24],
-				"Job":["Data Analyst","Software Engineer","HR Manager"]
-			}
+		"Name":["Aleena","John","Adam"],
+		"Age":[21,25,24],
+		"Job":["Data Analyst","Software Engineer","HR Manager"]
+	     }
 df = pd.read_csv("file name.csv")
 df = pd.DataFrame(dict_values)
 df.shape() # will return a tuple contains number of rows and number of columns 
