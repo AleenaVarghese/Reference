@@ -1,4 +1,5 @@
-# decorators are a technique to add functionality to code without modifying the code itself.
+# decorators are a technique to add functionality to code without modifying the code itself. 
+# A decorator can accept function as input and return function as output.
 # closers are used to implement decorators.
 
 import random 
